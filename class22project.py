@@ -1,5 +1,5 @@
 def multiply_tuple_numbers(numbers):
-    result = 1
+    result=1
     for number in numbers:
         result=result*number
     return result
